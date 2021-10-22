@@ -1,0 +1,251 @@
+Nail Salon	Shop & Service
+Tanning Salon	Shop & Service
+Restaurant	Food
+Nursery School	Professional & Other Places
+Public Art	Arts & Entertainment
+Comedy Club	Arts & Entertainment
+Athletic & Sport	Outdoors & Recreation
+Chinese Restaurant	Food
+Funeral Home	Professional & Other Places
+Record Shop	Shop & Service
+Road	Travel & Transport
+Aquarium	Arts & Entertainment
+Hobby Shop	Shop & Service
+Bank	Shop & Service
+Train Station	Travel & Transport
+Museum	Arts & Entertainment
+Spanish Restaurant	Food
+Cemetery	Outdoors & Recreation
+Video Game Store	Shop & Service
+Library	Professional & Other Places
+Breakfast Spot	Food
+Scandinavian Restaurant	Food
+Newsstand	Shop & Service
+Building	Professional & Other Places
+Other Nightlife	Nightlife Spot
+Bar	Nightlife Spot
+Residential Building (Apartment / Condo)	Residence
+Flea Market	Shop & Service
+Music School	Professional & Other Places
+Professional & Other Places	Professional & Other Places
+Coffee Shop	Food
+Event Space	Professional & Other Places
+Thrift / Vintage Store	Shop & Service
+French Restaurant	Food
+Storage Facility	Shop & Service
+Travel Lounge	Travel & Transport
+German Restaurant	Food
+Dessert Shop	Food
+Outdoors & Recreation	Outdoors & Recreation
+Caf	Food
+Trade School	College & University
+Embassy / Consulate	Professional & Other Places
+High School	Professional & Other Places
+Shop & Service	Shop & Service
+Fried Chicken Joint	Food
+Mediterranean Restaurant	Food
+Harbor / Marina	Outdoors & Recreation
+Australian Restaurant	Food
+Home (private)	Residence
+Post Office	Professional & Other Places
+Gift Shop	Shop & Service
+Moroccan Restaurant	Food
+Convention Center	Professional & Other Places
+Salon / Barbershop	Shop & Service
+Rest Area	Travel & Transport
+Snack Place	Food
+Law School	College & University
+Molecular Gastronomy Restaurant	Food
+Falafel Restaurant	Food
+Park	Outdoors & Recreation
+Diner	Food
+Bridal Shop	Shop & Service
+Burrito Place	Food
+Market	Shop & Service
+Fast Food Restaurant	Food
+Fair	Professional & Other Places
+Seafood Restaurant	Food
+Taco Place	Food
+Afghan Restaurant	Food
+Sporting Goods Shop	Shop & Service
+Paper / Office Supplies Store	Shop & Service
+African Restaurant	Food
+Cosmetics Shop	Shop & Service
+Antique Shop	Shop & Service
+General College & University	College & University
+Animal Shelter	Professional & Other Places
+General Travel	Travel & Transport
+Italian Restaurant	Food
+South American Restaurant	Food
+Furniture / Home Store	Shop & Service
+Middle Eastern Restaurant	Food
+Government Building	Professional & Other Places
+Office	Professional & Other Places
+Food Truck	Food
+Mexican Restaurant	Food
+School	Professional & Other Places
+Wings Joint	Food
+Bridge	Outdoors & Recreation
+Shrine	Professional & Other Places
+Factory	Professional & Other Places
+Bagel Shop	Food
+Performing Arts Venue	Arts & Entertainment
+Airport	Travel & Transport
+Other Great Outdoors	Outdoors & Recreation
+Mosque	Professional & Other Places
+Bike Rental / Bike Share	Travel & Transport
+Music Store	Shop & Service
+Theater	Arts & Entertainment
+Science Museum	Arts & Entertainment
+Tea Room	Food
+Asian Restaurant	Food
+College & University	College & University
+Fish & Chips Shop	Food
+Taxi	Travel & Transport
+Clothing Store	Shop & Service
+Vegetarian / Vegan Restaurant	Food
+Winery	Professional & Other Places
+Fraternity House	College & University
+Middle School	Professional & Other Places
+Dumpling Restaurant	Food
+Bookstore	Shop & Service
+Historic Site	Arts & Entertainment
+Military Base	Professional & Other Places
+Flower Shop	Shop & Service
+College Academic Building	College & University
+Spa / Massage	Shop & Service
+Arts & Crafts Store	Shop & Service
+Housing Development	Residence
+Stadium	Arts & Entertainment
+Synagogue	Professional & Other Places
+Art Gallery	Arts & Entertainment
+Food	Food
+Student Center	College & University
+History Museum	Arts & Entertainment
+Gym / Fitness Center	Outdoors & Recreation
+Playground	Outdoors & Recreation
+Motorcycle Shop	Shop & Service
+Hardware Store	Shop & Service
+Ramen /  Noodle House	Food
+Greek Restaurant	Food
+Financial or Legal Service	Shop & Service
+Cupcake Shop	Food
+Latin American Restaurant	Food
+Bakery	Food
+Mac & Cheese Joint	Food
+Movie Theater	Arts & Entertainment
+Spiritual Center	Professional & Other Places
+Steakhouse	Food
+Mobile Phone Shop	Shop & Service
+Dim Sum Restaurant	Food
+Car Wash	Shop & Service
+College Stadium	College & University
+Sandwich Place	Food
+Moving Target	Travel & Transport
+Car Dealership	Shop & Service
+Arepa Restaurant	Food
+Hotel	Travel & Transport
+Convenience Store	Shop & Service
+Video Store	Shop & Service
+Soup Place	Food
+Miscellaneous Shop	Shop & Service
+Pet Store	Shop & Service
+Pizza Place	Food
+Drugstore / Pharmacy	Shop & Service
+Ferry	Travel & Transport
+Laundry Service	Shop & Service
+Filipino Restaurant	Food
+Ice Cream Shop	Food
+Eastern European Restaurant	Food
+Southern / Soul Food Restaurant	Food
+Arcade	Arts & Entertainment
+Neighborhood	Outdoors & Recreation
+Electronics Store	Shop & Service
+Brazilian Restaurant	Food
+Travel & Transport	Travel & Transport
+Jewelry Store	Shop & Service
+Pool Hall	Arts & Entertainment
+Malaysian Restaurant	Food
+American Restaurant	Food
+Burger Joint	Food
+Casino	Arts & Entertainment
+River	Outdoors & Recreation
+Pool	Outdoors & Recreation
+University	College & University
+Scenic Lookout	Outdoors & Recreation
+Sculpture Garden	Outdoors & Recreation
+Internet Cafe	Shop & Service
+Rental Car Location	Travel & Transport
+Castle	Outdoors & Recreation
+Photography Lab	Shop & Service
+Peruvian Restaurant	Food
+Garden	Outdoors & Recreation
+Vietnamese Restaurant	Food
+Hot Dog Joint	Food
+Music Venue	Arts & Entertainment
+Gas Station / Garage	Shop & Service
+Camera Store	Shop & Service
+Plaza	Outdoors & Recreation
+Subway	Travel & Transport
+City	Outdoors & Recreation
+Racetrack	Arts & Entertainment
+Portuguese Restaurant	Food
+Argentinian Restaurant	Food
+Department Store	Shop & Service
+Planetarium	Arts & Entertainment
+Bus Station	Travel & Transport
+Pet Service	Shop & Service
+Distillery	Professional & Other Places
+Design Studio	Shop & Service
+Community College	College & University
+Art Museum	Arts & Entertainment
+Medical Center	Professional & Other Places
+Cuban Restaurant	Food
+Thai Restaurant	Food
+Parking	Professional & Other Places
+Sorority House	College & University
+Smoke Shop	Shop & Service
+BBQ Joint	Food
+Swiss Restaurant	Food
+Candy Store	Shop & Service
+Church	Professional & Other Places
+Nightlife Spot	Nightlife Spot
+Tapas Restaurant	Food
+Brewery	Nightlife Spot
+General Entertainment	Arts & Entertainment
+Bike Shop	Shop & Service
+Sushi Restaurant	Food
+Beach	Outdoors & Recreation
+Concert Hall	Arts & Entertainment
+Board Shop	Shop & Service
+Indian Restaurant	Food
+Beer Garden	Nightlife Spot
+Gastropub	Food
+Medical School	College & University
+Donut Shop	Food
+Campground	Outdoors & Recreation
+College Theater	College & University
+Mall	Shop & Service
+Recycling Facility	Shop & Service
+Zoo	Arts & Entertainment
+Temple	Professional & Other Places
+Arts & Entertainment	Arts & Entertainment
+Japanese Restaurant	Food
+Gaming Cafe	Shop & Service
+Tattoo Parlor	Shop & Service
+Automotive Shop	Shop & Service
+Deli / Bodega	Food
+Ski Area	Outdoors & Recreation
+Gluten-free Restaurant	Food
+Turkish Restaurant	Food
+Elementary School	Professional & Other Places
+Toy / Game Store	Shop & Service
+Korean Restaurant	Food
+Light Rail	Travel & Transport
+Cajun / Creole Restaurant	Food
+Caribbean Restaurant	Food
+Salad Place	Food
+Ethiopian Restaurant	Food
+Garden Center	Shop & Service
+Bowling Alley	Arts & Entertainment
+Food & Drink Shop	Shop & Service
